@@ -70,7 +70,7 @@ export function App() {
         </div>
         <button
           onClick={handleClick}
-          className="bg-blue-300 uppercase text-white font-bold text-xl rounded-xl p-4 cursor-pointer scale-100 active:scale-105 ring"
+          className="bg-blue-400 uppercase text-white font-bold text-xl rounded-xl p-4 cursor-pointer scale-100 active:scale-105 ring"
         >
           Крутим барабан
         </button>
