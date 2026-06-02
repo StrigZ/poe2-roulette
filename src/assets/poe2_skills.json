@@ -1,0 +1,1562 @@
+[
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/HeraldOfAshSkill.webp",
+      "name": "Вестник пепла"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/BruteBoneshatter.webp",
+      "name": "Дробление костей"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/BruteEarthquake.webp",
+      "name": "Землетрясение"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/BruteDoubleSlam.webp",
+      "name": "Крутящий удар"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/BruteHeavyStrike.webp",
+      "name": "Разрушитель брони"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/BruteInfernalCry.webp",
+      "name": "Клич преисподней"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/BruteShieldCharge.webp",
+      "name": "Удар щитом"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/BruteShockwaveTotem.webp",
+      "name": "Сотрясающий тотем"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/HeraldOfAshSkill.webp",
+      "name": "Вестник пепла"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/WardingSteel.webp",
+      "name": "Железный барьер"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/BruteMagmaBarrier.webp",
+      "name": "Магматический барьер"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/BruteScavengedPlating.webp",
+      "name": "Переработанная броня"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/BruteMoltenBlast.webp",
+      "name": "Магмовый взрыв"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/BrutePerfectStrike.webp",
+      "name": "Совершенный удар"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/BruteResonatingShield.webp",
+      "name": "Резонирующий щит"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/BruteEarthshatter.webp",
+      "name": "Разлом земли"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/BruteLeapSlam.webp",
+      "name": "Наскок"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/BruteShieldWall.webp",
+      "name": "Стена щитов"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/BruteVolcanicFissure.webp",
+      "name": "Вулканический разлом"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/OverwhelmingPressureSkill.webp",
+      "name": "Подавляющее присутствие"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/TimeOfNeedSkill.webp",
+      "name": "Час нужды"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/WarriorForgeHammer.webp",
+      "name": "Молот кузни"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/WarriorShieldingCry.webp",
+      "name": "Укрепляющий клич"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/BruteSunder.webp",
+      "name": "Раскол"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/BruteSeismicCry.webp",
+      "name": "Сейсмический клич"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/BruteStampede.webp",
+      "name": "Натиск"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/BruteSuperchargedSlam.webp",
+      "name": "Сверхмощный удар"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/WarriorAncestralCry.webp",
+      "name": "Клич предков"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/BruteAncestralWarriorTotem.webp",
+      "name": "Тотем-воин предков"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/BruteHammerOfTheGods.webp",
+      "name": "Молот богов"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/BeserkSkill.webp",
+      "name": "Берсерк"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/CeaselessRageSkill.webp",
+      "name": "Вечная ярость"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/HuntressSummonCompanion.webp",
+      "name": "Компаньон: {0}"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/HeraldOfThunderSkill.webp",
+      "name": "Вестник грома"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/ImpaleSkillIcon.webp",
+      "name": "Отступление"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/RangerFrostEscapeShot.webp",
+      "name": "Выстрел с отскоком"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/HuntressRemoteMineSpear.webp",
+      "name": "Взрывное копьё"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/RangerLightningArrow.webp",
+      "name": "Стрела молнии"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/RangerLightningRodRainSkill.webp",
+      "name": "Громоотвод"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/RangerPoisonBurstArrow.webp",
+      "name": "Ядовитая взрывная стрела"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/TwisterSkillIcon.webp",
+      "name": "Смерч"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/HuntressWhirlingSlash.webp",
+      "name": "Вихревой удар"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/FrenziedLungeSkillIcon.webp",
+      "name": "Добивание слабых"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/FangsofFrostSkillIcon.webp",
+      "name": "Ледяные клыки"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/RangerFreezingSalvoSkill.webp",
+      "name": "Замораживающий залп"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/HuntressStormSpear.webp",
+      "name": "Копьё молнии"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/HuntressBloodHunt.webp",
+      "name": "Выпад"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/RangerSnipeShotArrow.webp",
+      "name": "Прицельный выстрел"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/RangerShockingArrow.webp",
+      "name": "Стрела призыва бури"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/RangerPoisonVineArrowSkill.webp",
+      "name": "Стрела лиан"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/HeraldOfThunderSkill.webp",
+      "name": "Вестник грома"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/RangerPlagueBearerSkill.webp",
+      "name": "Носитель чумы"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/RangerWindDancerSkill.webp",
+      "name": "Танцующий с ветром"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/RangerBarrageSkill.webp",
+      "name": "Очередь"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/RangerElectrocutingRodSkill.webp",
+      "name": "Стрела-проводник"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/RangerShearingBolts.webp",
+      "name": "Льдистые стрелы"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/HuntressRapidAssault.webp",
+      "name": "Стремительное нападение"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/HuntressSpearField.webp",
+      "name": "Поле копий"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/HuntressOverchargedSpear.webp",
+      "name": "Штормовое копьё"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/RangerPoisonBloomSkill.webp",
+      "name": "Ядовитое цветение"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/HuntressBloodHuntSkillIcon.webp",
+      "name": "Кровавая охота"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/RangerGasCloudSkill.webp",
+      "name": "Газовая стрела"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/HuntressGlacialLance.webp",
+      "name": "Леденящее копьё"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/projectileweakness.webp",
+      "name": "Метка снайпера"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/HuntressTameBeast.webp",
+      "name": "Приручение зверя"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/ShockingMarkSkill.webp",
+      "name": "Громовая метка"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/RangerCombatFrenzySkill.webp",
+      "name": "Боевое бешенство"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/HeraldOfAgonySkill.webp",
+      "name": "Вестник чумы"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/LingeringMirageSkill.webp",
+      "name": "Призрачный лучник"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/CaltropsOnDodgeSkillIcon.webp",
+      "name": "Тропа из кальтропов"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/MarkoftheBloodhoundSkillIcon.webp",
+      "name": "Метка кровавой гончей"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/RangerDetonatingArrowSkill.webp",
+      "name": "Взрывная стрела"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/RangerIceShot.webp",
+      "name": "Ледяной выстрел"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/PrimalStrikesSkillIcon.webp",
+      "name": "Первобытные удары"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/RangerRainOfArrowsSkill.webp",
+      "name": "Ливень стрел"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/ThunderousLeapSkillIcon.webp",
+      "name": "Грозовой скачок"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/HuntressExtraElements.webp",
+      "name": "Стихийный раскол"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/RangerShockchainSkill.webp",
+      "name": "Стрела цепной молнии"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/RangerTornadoShotSkill.webp",
+      "name": "Вихрь стрел"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/WindstormLanceSkillIcon.webp",
+      "name": "Вихревое копьё"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/RangerMagneticSalvo.webp",
+      "name": "Магнетический залп"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/SolarisSpearSkillIcon.webp",
+      "name": "Копьё Солярис"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/RangerSpiralVolleySkill.webp",
+      "name": "Спиральный залп"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/RangerToxicDomain.webp",
+      "name": "Отравляющее поле"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/WindSerpentsFurySkillIcon.webp",
+      "name": "Ярость воздушного змея"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/AlchemistsBoonSkill.webp",
+      "name": "Дар алхимика"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/RhoaMountSkillIcon.webp",
+      "name": "Ездовой роа"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/BoneBlastWeaponSkill.webp",
+      "name": "Костяной взрыв"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/CastOnFreezeSkill.webp",
+      "name": "Сотворение чар при заморозке"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/CastOnIgniteSkill.webp",
+      "name": "Сотворение чар при поджоге"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/CastOnShockSkill.webp",
+      "name": "Сотворение чар при шоке"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/ChaosBoltWeaponSkill.webp",
+      "name": "Снаряд хаоса"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/CoilOfUndoingSkill.webp",
+      "name": "Петляющие снаряды"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/Conductivity.webp",
+      "name": "Проводимость"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/DecomposeSkill.webp",
+      "name": "Разложение"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/AbsolutionBlast.webp",
+      "name": "[DNT] Crushing Earth"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/DeathPactSkill.webp",
+      "name": "Тёмный договор"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/DisciplineWeaponSkill.webp",
+      "name": "Дисциплина"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/EnervatingNovaWeaponSkill.webp",
+      "name": "Изнуряющее кольцо"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/BloodTendrilsSkill.webp",
+      "name": "Обескровливание"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/WeaponFeastofFlesh.webp",
+      "name": "Пир плоти"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/FireballSkillStaff.webp",
+      "name": "Огненный снаряд"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/Flammability.webp",
+      "name": "Горючесть"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/FreezingShardsStaff.webp",
+      "name": "Морозные осколки"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/WrathAuraWeaponSkill.webp",
+      "name": "Громы и молнии"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/GalvanicFieldWeaponSkill.webp",
+      "name": "Электризующее поле"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/ChillingAuraSkillStaff.webp",
+      "name": "Ледяное сердце"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/Frostbite.webp",
+      "name": "Обморожение"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/PurityofChaosWeaponSkill.webp",
+      "name": "Спасение от хаоса"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/LightningBoltSkillStaff.webp",
+      "name": "Удар грома"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/MaliceWeaponSkill.webp",
+      "name": "Злость"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/ManaDrainWeaponSkill.webp",
+      "name": "Вытягивание маны"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/AtzirisRule.webp",
+      "name": "Преломляющее зеркало"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/PowerSiphonWeaponSkill.webp",
+      "name": "Перелив энергии"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/PurityofFireWeaponSkill.webp",
+      "name": "Спасение от огня"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/PurityofColdWeaponSkill.webp",
+      "name": "Спасение от холода"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/PurityofLightningWeaponSkill.webp",
+      "name": "Спасение от молний"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/ReapWeaponSkill.webp",
+      "name": "Кровавая жатва"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/SigilofPowerWeaponSkill.webp",
+      "name": "Печать силы"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/WitchArcherSkeleton.webp",
+      "name": "Скелет-снайпер"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/WitchWarriorSkeleton.webp",
+      "name": "Приспешник скелет-воин"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/SorceressSolarOrb.webp",
+      "name": "Сфера солнца"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/Soulrend.webp",
+      "name": "Разрыв души"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/SpellslingerWeaponSkill.webp",
+      "name": "Чароплёт"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/RoostOfTheRavenKingSwarm.webp",
+      "name": "Вьющийся заговор"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/LightningBoltSkillStaff.webp",
+      "name": "Удар грома"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/SorceressBlazingCluster.webp",
+      "name": "Янтарный шквал"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/SorceressSpark.webp",
+      "name": "Искра"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/SorceressTemporalistUnleash.webp",
+      "name": "Высвобождение"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/VolatileDeadWeaponSkill.webp",
+      "name": "Нестабильный труп"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/Wither.webp",
+      "name": "Увядание"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/WitchContagion.webp",
+      "name": "Инфекция"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/SorceressFlameWall.webp",
+      "name": "Стена пламени"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/SorceressFrostBomb.webp",
+      "name": "Морозная бомба"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/SorceressIceNova.webp",
+      "name": "Кольцо льда"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/WitchArcherSkeleton.webp",
+      "name": "Скелет-снайпер"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/SorceressSpark.webp",
+      "name": "Искра"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/WitchUnearth.webp",
+      "name": "Эксгумация"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/WitchBoneCage.webp",
+      "name": "Костяная клетка"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/enfeeble.webp",
+      "name": "Слабость"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/WitchEssenceDrain.webp",
+      "name": "Похищение сущности"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/SorceressGreaterFireball.webp",
+      "name": "Огненный шар"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/FrostDartsSkillIcon.webp",
+      "name": "Морозные иглы"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/LivingBombWeaponSkill.webp",
+      "name": "Живая бомба"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/SorceressOrbOfStorms.webp",
+      "name": "Сфера бурь"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/WitchArsonistSkeleton.webp",
+      "name": "Скелет-поджигатель"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/SorceressArcticArmour.webp",
+      "name": "Северная броня"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/ConvalescenceSkillIcon.webp",
+      "name": "Оздоровление"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/WitchGrimFeast.webp",
+      "name": "Мрачный пир"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/SorceressEnergyRemnants.webp",
+      "name": "Сгустки маны"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/WitchReservationRaginSpirits.webp",
+      "name": "Неистовые духи"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/WitchRavenousSwarm.webp",
+      "name": "Прожорливый рой"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/WitchWitheringPresence.webp",
+      "name": "Истощающее присутствие"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/SorceressArc.webp",
+      "name": "Цепь молний"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/WitchBoneStorm.webp",
+      "name": "Буря костей"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/SorceressBlazingCluster.webp",
+      "name": "Янтарный шквал"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/SorceressFrostbolt.webp",
+      "name": "Морозный шар"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/WitchPainOffering.webp",
+      "name": "Подношение боли"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/WitchRaiseZombie.webp",
+      "name": "Поднятие зомби"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/WitchFrostSkeleton.webp",
+      "name": "Скелет-маг льда"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/SorceressColdSnap.webp",
+      "name": "Подрыв"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/WitchBindSpectre.webp",
+      "name": "Поимка призрака"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/WitchDetonateDead.webp",
+      "name": "Подрыв трупа"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/elementalweakness.webp",
+      "name": "Уязвимость к стихиям"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/SorceressManaTempest.webp",
+      "name": "Буря маны"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/WitchProfaneRitual.webp",
+      "name": "Нечестивый ритуал"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/temporalchains.webp",
+      "name": "Путы времени"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/vulnerability.webp",
+      "name": "Беззащитность"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/WitchBlasphemy.webp",
+      "name": "Богохульство"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/SorceressBlinkReservation.webp",
+      "name": "Скачок"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/CastOnMinionDeath.webp",
+      "name": "Сотворение чар при смерти приспешников"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/SiphonElements.webp",
+      "name": "Вытягивание стихий"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/WitchDarkEffigy.webp",
+      "name": "Тёмное чучело"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/Despair.webp",
+      "name": "Отчаяние"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/SorceressFrostWall.webp",
+      "name": "Стена льда"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/SorceressIncinerate.webp",
+      "name": "Испепеление"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/SorceressLightningWarp.webp",
+      "name": "Грозовой переход"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/WitchReaverSkeleton.webp",
+      "name": "Скелет-разоритель"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/SorceressBallLightning.webp",
+      "name": "Шаровая молния"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/WitchBoneOffering.webp",
+      "name": "Подношение костей"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/SorceressComet.webp",
+      "name": "Комета"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/WitchFirestorm.webp",
+      "name": "Огненный шторм"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/WitchHexBlast.webp",
+      "name": "Взрыв порчи"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/WitchStormSkeleton.webp",
+      "name": "Скелет-маг молний"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/SorceressEyeofWinter.webp",
+      "name": "Око зимы"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/SorceressFlameblast.webp",
+      "name": "Пламенный взрыв"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/SorceressLightningConduit.webp",
+      "name": "Проводник молнии"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/WitchBruteSkeleton.webp",
+      "name": "Скелет-громила"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/WitchClericSkeleton.webp",
+      "name": "Скелет-клерик"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/WitchPowerOffering.webp",
+      "name": "Подношение души"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/ArchmageSkill.webp",
+      "name": "Архимаг"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/CastOnCritSkill.webp",
+      "name": "Сотворение чар при критическом попадании"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/CastonFreezeShockIgnite.webp",
+      "name": "Сотворение чар при стихийном состоянии"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/ElementalConfluxSkill.webp",
+      "name": "Слияние стихий"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/HarvesterSkill.webp",
+      "name": "Принесение в жертву"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/BruteWarbringerDefenders.webp",
+      "name": "Духи предков"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/ExpeditionAnimusExhange.webp",
+      "name": "Обмен анимой"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/ExpeditionFalseLife.webp",
+      "name": "Осколки анимы"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/DruidShamanUnleashtheElementsSkill.webp",
+      "name": "Апокалипсис"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/AcolyteOfChayulaSpecialNodeSkill.webp",
+      "name": "Архонт Чаюлы"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/DruidOracleSpellfluxSkill.webp",
+      "name": "Совпадение судеб"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/RangerBrewConcoctionBleedSkill.webp",
+      "name": "Кровопускающая смесь"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/Rolldodge.webp",
+      "name": "Ловушка Ружана"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/Rolldodge.webp",
+      "name": "Ярость Ружана"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/Rolldodge.webp",
+      "name": "Расплата Ружана"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/Rolldodge.webp",
+      "name": "Обман Келари"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/Rolldodge.webp",
+      "name": "Суд Келари"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/Rolldodge.webp",
+      "name": "Колодец Навиры"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/Rolldodge.webp",
+      "name": "Раскол Навиры"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/Rolldodge.webp",
+      "name": "Оазис Навиры"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/SorceressSandDjinnCorpseBeetles.webp",
+      "name": "Злословие Келари"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/MonkInvokerWildStrike.webp",
+      "name": "Выход стихии"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/SorceressElementalStorm.webp",
+      "name": "Стихийная буря"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/BruteWarbringerEncasedJade.webp",
+      "name": "Заключение в нефрите"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/RangerBrewConcoctionFireSkill.webp",
+      "name": "Взрывная смесь"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/RangerBrewConcoctionLightningSkill.webp",
+      "name": "Гремучая смесь"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/GemBarrier.webp",
+      "name": "Барьер добродетели"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/BloodChannel.webp",
+      "name": "Сгустки жизни"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/MonkInvokerMeditate.webp",
+      "name": "Медитация"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/passives/DruidOracleRipFromTimeSkill.webp",
+      "name": "Момент уязвимости"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/RangerBrewConcoctionPoisonSkill.webp",
+      "name": "Кислотная смесь"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/RangerBrewConcoctionColdSkill.webp",
+      "name": "Раскалывающая смесь"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/SorceressSummonFireDjinn.webp",
+      "name": "Ружан, Пылающий меч"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/WitchSummonInfernalFamiliar.webp",
+      "name": "Призыв адской гончей"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/SorceressSummonSandDjinn.webp",
+      "name": "Келари, Порочные пески"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/SorceressSummonWaterDjinn.webp",
+      "name": "Навира, Последний мираж"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/AmazonElementalInfusionSkillIcon.webp",
+      "name": "Всплеск стихии"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/MonkInvokerUnboundAvatar.webp",
+      "name": "Воплощение безудержности"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/SorceressTemporalistUnleash.webp",
+      "name": "Высвобождение"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/DruidBearMaul.webp",
+      "name": "Трёпка"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/ExpeditionBitterDead.webp",
+      "name": "Стылые трупы"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/SorceressBlinkReservation.webp",
+      "name": "Скачок"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/PrimalistBloodBoilsSkillIcon.webp",
+      "name": "Кипящая кровь"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/SmithOfKitavaTriggerFireballsSkillIcon.webp",
+      "name": "Чары огня при ударе"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/CastOnMeleeBlockSkill.webp",
+      "name": "Сотворение чар при блоке"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/ExpeditionRunewordHazard.webp",
+      "name": "Проводящие руны"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/DecomposeSkill.webp",
+      "name": "Разложение"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/WitchTransformDemon.webp",
+      "name": "Форма демона"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/ExpeditionDetonateLiving.webp",
+      "name": "Взрывная агония"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/ExpeditionWardforgedMinions.webp",
+      "name": "Вечный марш"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/ExpeditionExplosiveTransmutation.webp",
+      "name": "Взрывное преображение"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/ExpeditionFrostfireNova.webp",
+      "name": "Кольцо морозного пламени"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/ExpeditionGrimPillars.webp",
+      "name": "Мрачные столпы"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/MartialArtistSpectralBellSkill.webp",
+      "name": "Полая концентрация"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/MartialArtistMantraofIllusionsSkill.webp",
+      "name": "Полая форма"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/MartialArtistCarrySpectralBellSkill.webp",
+      "name": "Полый резонанс"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/ExpeditionHollowShell.webp",
+      "name": "Пустая оболочка"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/TemporalistSynchronisationofPainSkill.webp",
+      "name": "Неизбежная агония"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/MonkBreachWalk.webp",
+      "name": "Проход в Разлом"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/ExpeditionLeylines.webp",
+      "name": "Силовые линии"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/SmithOfKitavaCreateWeaponSkillIcon.webp",
+      "name": "Призыв оружия"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/DeadeyeMarkMetagemSkill.webp",
+      "name": "Точные попадания"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/RangerDeadeyeMirageSkill.webp",
+      "name": "Призрачный снайпер"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/HuntressBucklerParry.webp",
+      "name": "Парирование"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/OneHandAxeDefaultSkill.webp",
+      "name": "Удар топором"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/OneHandMaceDefaultSkill.webp",
+      "name": "Удар булавой"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/OneHandSwordDefaultSkill.webp",
+      "name": "Удар мечом"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/TwoHandAxeDefaultSkill.webp",
+      "name": "Удар топором"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/TwoHandMaceDefaultSkill.webp",
+      "name": "Удар булавой"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/TwoHandSwordDefaultSkill.webp",
+      "name": "Удар мечом"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/DualWieldAxeDefaultSkill.webp",
+      "name": "Удар топором"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/BowDefaultSkill.webp",
+      "name": "Выстрел из лука"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/OneHandClawDefaultSkill.webp",
+      "name": "Удар когтями"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/DualWieldClawDefaultSkill.webp",
+      "name": "Удар когтями"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/PowerShot.webp",
+      "name": "Выстрел из самострела"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/OneHandDaggerDefaultSkill.webp",
+      "name": "Удар кинжалом"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/TwoHandDaggerDefaultSkill.webp",
+      "name": "Удар кинжалом"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/FlailDefaultSkill.webp",
+      "name": "Удар кистенем"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/DualWieldMaceDefaultSkill.webp",
+      "name": "Удар булавой"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/QuarterstaffDefaultSkill.webp",
+      "name": "Удар посохом"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/TwoHandSpearDefaultSkill.webp",
+      "name": "Удар копьём"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/SpearDefaultSkill.webp",
+      "name": "Удар копьём"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/HuntressIceSpear.webp",
+      "name": "Бросок копья"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/DualWieldSwordDefaultSkill.webp",
+      "name": "Удар мечом"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/UnarmedDefaultSkill.webp",
+      "name": "Удар"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/ExpeditionVerisiumInfusion.webp",
+      "name": "Питание веризием"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/WildspeakerOwlFeathersSkill.webp",
+      "name": "Первобытный дар"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/ExpeditionRainofBlades.webp",
+      "name": "Дождь клинков"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/ExpeditionRunicFortress.webp",
+      "name": "Отвержение"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/ExpeditionRemnantsofKalguur.webp",
+      "name": "Реликты Калгуура"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/ExpeditionMarkofRepulsion.webp",
+      "name": "Отталкивание"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/PrimalistStabCorpseSkillIcon.webp",
+      "name": "Ритуальное жертвоприношение"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/ExpeditionKalguuranWard.webp",
+      "name": "Рунное отведение"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/BruteShieldBlock.webp",
+      "name": "Поднять щит"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/ExpeditionVerisiumComet.webp",
+      "name": "Падение небес"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/WitchunterSpellAegis.webp",
+      "name": "Чародейский барьер"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/BuffIcons/consecrated.webp",
+      "name": "Освящение"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/TacticianDeathFromAboveSkillIcon.webp",
+      "name": "Огневая поддержка"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/SmithOfKitavaImbueWeaponSkillIcon.webp",
+      "name": "Закалка"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/SorceressTemporalistTemporalRift.webp",
+      "name": "Временной разрыв"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/SorceressTemporalistTimeStop.webp",
+      "name": "Остановка времени"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/SorceressTemporalistReloadCooldown.webp",
+      "name": "Момент времени"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/ExpeditionTriskelionCascade.webp",
+      "name": "Каскад Трискелиона"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/HeraldOfIceSkill.webp",
+      "name": "Вестник льда"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/WitchWitheringPresence.webp",
+      "name": "Истощающее присутствие"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/ExpeditionRunewordManifest.webp",
+      "name": "Веризиевые проявления"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/WildspeakerVividStagsSkill.webp",
+      "name": "Буйное стадо"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/MonkVoidIllusion.webp",
+      "name": "Иллюзия пустоты"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/ExpeditionCracklingBarrier.webp",
+      "name": "Электрический барьер"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/ExpeditionWardboundMinions.webp",
+      "name": "Барьерные приспешники"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/WildspeakerBearSkill.webp",
+      "name": "Дикий защитник"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/DruidFrozenClaws.webp",
+      "name": "Раздирание"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/DruidWyvernSwipe.webp",
+      "name": "Рваная рана"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/RapidShotPhysical.webp",
+      "name": "Бронебойные снаряды"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/DruidEntangle.webp",
+      "name": "Оплетение"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/ExplosiveGrenade.webp",
+      "name": "Взрывная граната"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/MonkLightningStrike.webp",
+      "name": "Раскаты грома"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/BurstShotPhysical.webp",
+      "name": "Осколочные снаряды"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/MonkIceAmbush.webp",
+      "name": "Направленная заморозка"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/DruidBearSlam.webp",
+      "name": "Яростный удар"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/MonkGlacialCascade.webp",
+      "name": "Ледяной каскад"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/MonkKillingPalm.webp",
+      "name": "Смертельная длань"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/DruidLunarAssault.webp",
+      "name": "Лунное нападение"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/BurstShotPermafrost.webp",
+      "name": "Болты вечной мерзлоты"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/DruidVolcano.webp",
+      "name": "Вулкан"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/FlashbangGrenade.webp",
+      "name": "Ослепляющая граната"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/PowerShotPhysical.webp",
+      "name": "Высокоскоростные снаряды"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/BurstShotIncendiary.webp",
+      "name": "Поджигающий выстрел"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/DruidRollingMagma.webp",
+      "name": "Ползучая магма"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/MonkWindPalm.webp",
+      "name": "Оглушающая длань"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/MonkTempestBell.webp",
+      "name": "Колокол бури"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/MonkGaleStrikeSwing.webp",
+      "name": "Порыв ветра"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/DruidWingBlast.webp",
+      "name": "Взмах крыльев"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/DruidWolfLeapAttack.webp",
+      "name": "Бросок"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/AttritionSkill.webp",
+      "name": "Измор"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/DruidBriarpatch.webp",
+      "name": "Колючие кусты"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/MonkGhostDance.webp",
+      "name": "Призрачный танец"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/HeraldOfBloodSkill.webp",
+      "name": "Вестник крови"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/HeraldOfIceSkill.webp",
+      "name": "Вестник льда"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/DruidWildBeast.webp",
+      "name": "Дикая ярость"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/WarBannerSkill.webp",
+      "name": "Знамя войны"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/DruidFuryoftheMountain.webp",
+      "name": "Ярость горы"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/BurstShotStormblast.webp",
+      "name": "Электризующие осколки"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/RapidShotPermafrost.webp",
+      "name": "Ледяные осколки"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/MonkComboAttack.webp",
+      "name": "Ледяной удар"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/RapidShotIncendiary.webp",
+      "name": "Быстрый выстрел"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/MonkTempestFlurry.webp",
+      "name": "Шквал бури"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/LightningStormSkill.webp",
+      "name": "Гроза"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/ToxicGrenade.webp",
+      "name": "Газовая граната"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/MonkVaultingImpact.webp",
+      "name": "Удар в прыжке"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/DruidTundraHunter.webp",
+      "name": "Арктический вой"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/DruidDevourShock.webp",
+      "name": "Пожирание"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/MercRipwireBallista.webp",
+      "name": "Артиллерийская баллиста"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/PowerShotIncendiary.webp",
+      "name": "Взрывной выстрел"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/DruidBearWarcry.webp",
+      "name": "Свирепый рёв"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/FreezingMarkSkill.webp",
+      "name": "Морозная метка"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/PowerShotPermafrost.webp",
+      "name": "Леденящий болт"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/DruidSpellTotem.webp",
+      "name": "Колдующий тотем"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/ShockGrenade.webp",
+      "name": "Электрическая граната"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/MonkSiphoningStrike.webp",
+      "name": "Вытягивающий удар"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/MonkStormWave.webp",
+      "name": "Штормовая волна"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/MonkFreezingBackflip.webp",
+      "name": "Волна мороза"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/DruidCrossSlash.webp",
+      "name": "Крестовой удар"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/DruidBarkSkin.webp",
+      "name": "Дубовая кожа"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/SorceressBarrierInvocation.webp",
+      "name": "Вызов барьера"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/DefianceBannerSkill.webp",
+      "name": "Знамя непокорности"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/ElementalInvocationSkill.webp",
+      "name": "Вызов стихии"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/MonkLingeringIllusion.webp",
+      "name": "Временная иллюзия"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/MercShardDespoiler.webp",
+      "name": "Собиратель осколков"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/DruidSummonWolf.webp",
+      "name": "Волчья стая"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/MonkChargedStaff.webp",
+      "name": "Заряженный посох"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/MonkHandOfChayula.webp",
+      "name": "Длань Чаюлы"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/MonkMantraofDestruction.webp",
+      "name": "Мантра разрушения"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/DruidElectricSpittle.webp",
+      "name": "Масляная очередь"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/OilGrenade.webp",
+      "name": "Масляная граната"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/MercArtilleryBallista.webp",
+      "name": "Осадная баллиста"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/SiegeCascadeStormblast.webp",
+      "name": "Штормовой болт"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/DruidAwakenedForest.webp",
+      "name": "Молотящие лианы"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/DruidBearRampage.webp",
+      "name": "Буйство"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/MercEmergencyReload.webp",
+      "name": "Экстренная перезарядка"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/SiegeCascadePermafrost.webp",
+      "name": "Град снарядов"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/GrenadeBallistaSkillIcon.webp",
+      "name": "Мортира"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/MonkShatteringPalm.webp",
+      "name": "Раскалывающая длань"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/RapidShotStormblast.webp",
+      "name": "Электровспышечные снаряды"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/DruidTornado.webp",
+      "name": "Торнадо"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/MonkWhirlingAssault.webp",
+      "name": "Вихревой налёт"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/MercClusterGrenade.webp",
+      "name": "Кластерная граната"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/MonkFlickerStrikeTeleport.webp",
+      "name": "Внезапный удар"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/MonkGatheringStorm.webp",
+      "name": "Грядущая буря"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/PowerShotStormblast.webp",
+      "name": "Плазменный заряд"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/SiegeCascadePhysical.webp",
+      "name": "Осадный залп"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/DruidWalkingCalamity.webp",
+      "name": "Ходячее бедствие"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/DruidLunarBlessing.webp",
+      "name": "Лунное благословение"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/DruidFlameBreath.webp",
+      "name": "Пламенное дыхание"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/CastOnDodgeRollSkill.webp",
+      "name": "Сотворение чар при кувырке"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/ChargeMasteryDeath.webp",
+      "name": "Управление зарядами"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/DreadBannerSkill.webp",
+      "name": "Знамя страха"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/DruidFeralInvocation.webp",
+      "name": "Вызов дикости"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/MeleeInvocationSkill.webp",
+      "name": "Вызов жнеца"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/SkillIcons/HuntressTrinitySkillIcon.webp",
+      "name": "Триединство"
+   }
+]

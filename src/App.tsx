@@ -1,122 +1,80 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from './assets/vite.svg'
-import heroImg from './assets/hero.png'
-import './App.css'
+import SlotCounter, {
+  type SlotCounterRef,
+  type SlotCounterProps,
+} from "react-slot-counter";
+import { useGetRandom } from "./hooks/use-get-random";
+import { ItemCard } from "./components/item-card";
+import { useRef, useState } from "react";
 
-function App() {
-  const [count, setCount] = useState(0)
+const slotSettings: SlotCounterProps = {
+  duration: 3,
+  value: "",
+  dummyCharacterCount: 20,
+};
+
+export function App() {
+  const { getRandomAscendancy, getRandomSkill } = useGetRandom();
+  const skillCounterRef = useRef<SlotCounterRef>(null);
+  const ascendancyCounterRef = useRef<SlotCounterRef>(null);
+  const [skillResult, setSkillResult] = useState(() => getRandomSkill());
+  const [ascendancyResult, setAscendancyResult] = useState(() =>
+    getRandomAscendancy(),
+  );
+
+  const handleClick = () => {
+    setSkillResult(getRandomSkill());
+    setAscendancyResult(getRandomAscendancy());
+
+    skillCounterRef.current?.startAnimation();
+    ascendancyCounterRef.current?.startAnimation();
+  };
+
+  const getDummySkills = () => {
+    const res = [];
+    for (let i = 0; i < 20; i++) {
+      const skill = getRandomSkill();
+      res.push(<ItemCard {...skill} />);
+    }
+    return res;
+  };
+
+  const getDummyAscendancies = () => {
+    const res = [];
+    for (let i = 0; i < 20; i++) {
+      const skill = getRandomAscendancy();
+      res.push(<ItemCard {...skill} />);
+    }
+    return res;
+  };
 
   return (
-    <>
-      <section id="center">
-        <div className="hero">
-          <img src={heroImg} className="base" width="170" height="179" alt="" />
-          <img src={reactLogo} className="framework" alt="React logo" />
-          <img src={viteLogo} className="vite" alt="Vite logo" />
-        </div>
-        <div>
-          <h1>Get started</h1>
-          <p>
-            Edit <code>src/App.tsx</code> and save to test <code>HMR</code>
-          </p>
+    <main className="flex items-center flex-col gap-10 px-2 bg-gray-300 h-screen justify-center">
+      <div className="container mx-auto flex flex-col gap-5 border rounded p-5 max-w-[768px] bg-purple-500/50 border-white shadow-lg">
+        <div className="grid grid-rows-2 sm:grid-rows-1 sm:grid-cols-2 gap-10 items-center justify-center  place-items-center">
+          <SlotCounter
+            {...slotSettings}
+            ref={skillCounterRef}
+            startValueOnce
+            autoAnimationStart={false}
+            value={[<ItemCard {...skillResult} />]}
+            dummyCharacters={getDummySkills()}
+          />
+          <SlotCounter
+            {...slotSettings}
+            ref={ascendancyCounterRef}
+            startValueOnce
+            autoAnimationStart={false}
+            value={[<ItemCard {...ascendancyResult} />]}
+            dummyCharacters={getDummyAscendancies()}
+          />
         </div>
         <button
-          type="button"
-          className="counter"
-          onClick={() => setCount((count) => count + 1)}
+          onClick={handleClick}
+          className="bg-blue-300 uppercase text-white font-bold text-xl rounded-xl p-4 cursor-pointer scale-100 active:scale-105 ring"
         >
-          Count is {count}
+          Крутим барабан
         </button>
-      </section>
-
-      <div className="ticks"></div>
-
-      <section id="next-steps">
-        <div id="docs">
-          <svg className="icon" role="presentation" aria-hidden="true">
-            <use href="/icons.svg#documentation-icon"></use>
-          </svg>
-          <h2>Documentation</h2>
-          <p>Your questions, answered</p>
-          <ul>
-            <li>
-              <a href="https://vite.dev/" target="_blank">
-                <img className="logo" src={viteLogo} alt="" />
-                Explore Vite
-              </a>
-            </li>
-            <li>
-              <a href="https://react.dev/" target="_blank">
-                <img className="button-icon" src={reactLogo} alt="" />
-                Learn more
-              </a>
-            </li>
-          </ul>
-        </div>
-        <div id="social">
-          <svg className="icon" role="presentation" aria-hidden="true">
-            <use href="/icons.svg#social-icon"></use>
-          </svg>
-          <h2>Connect with us</h2>
-          <p>Join the Vite community</p>
-          <ul>
-            <li>
-              <a href="https://github.com/vitejs/vite" target="_blank">
-                <svg
-                  className="button-icon"
-                  role="presentation"
-                  aria-hidden="true"
-                >
-                  <use href="/icons.svg#github-icon"></use>
-                </svg>
-                GitHub
-              </a>
-            </li>
-            <li>
-              <a href="https://chat.vite.dev/" target="_blank">
-                <svg
-                  className="button-icon"
-                  role="presentation"
-                  aria-hidden="true"
-                >
-                  <use href="/icons.svg#discord-icon"></use>
-                </svg>
-                Discord
-              </a>
-            </li>
-            <li>
-              <a href="https://x.com/vite_js" target="_blank">
-                <svg
-                  className="button-icon"
-                  role="presentation"
-                  aria-hidden="true"
-                >
-                  <use href="/icons.svg#x-icon"></use>
-                </svg>
-                X.com
-              </a>
-            </li>
-            <li>
-              <a href="https://bsky.app/profile/vite.dev" target="_blank">
-                <svg
-                  className="button-icon"
-                  role="presentation"
-                  aria-hidden="true"
-                >
-                  <use href="/icons.svg#bluesky-icon"></use>
-                </svg>
-                Bluesky
-              </a>
-            </li>
-          </ul>
-        </div>
-      </section>
-
-      <div className="ticks"></div>
-      <section id="spacer"></section>
-    </>
-  )
+      </div>
+    </main>
+  );
 }
-
-export default App

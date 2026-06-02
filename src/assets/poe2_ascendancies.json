@@ -1,0 +1,142 @@
+[
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/UIImages/Common/IconDexFour.webp",
+      "name": "Охотница"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/UIImages/Common/IconDexFour_Ranger1.webp",
+      "name": "Снайпер"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/UIImages/Common/IconDexFour_Ranger3.webp",
+      "name": "Следопыт"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/UIImages/Common/IconDexFourb.webp",
+      "name": "Копейщица"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/UIImages/Common/IconDexFourb_Huntress1.webp",
+      "name": "Амазонка"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/UIImages/Common/IconDexFourb_Huntress2.webp",
+      "name": "Ходящая среди духов"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/UIImages/Common/IconDexFourb_Huntress3.webp",
+      "name": "Ритуалист"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/UIImages/Common/IconUnknownCharacter.webp",
+      "name": "Бандит"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/UIImages/Common/IconDexIntFourb.webp",
+      "name": "Монах"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/UIImages/Common/IconDexIntFourb_Monk1.webp",
+      "name": "Мастер боевых искусств"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/UIImages/Common/IconDexIntFourb_Monk2.webp",
+      "name": "Заклинатель стихий"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/UIImages/Common/IconDexIntFourb_Monk3.webp",
+      "name": "Служитель Чаюлы"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/UIImages/Common/IconIntFour.webp",
+      "name": "Ведьма"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/UIImages/Common/IconIntFour_Witch1.webp",
+      "name": "Инферналист"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/UIImages/Common/IconIntFour_Witch2.webp",
+      "name": "Маг крови"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/UIImages/Common/IconIntFour_Witch3.webp",
+      "name": "Лич"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/UIImages/Common/IconIntFour_Witch3b.webp",
+      "name": "Лич Бездны"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/UIImages/Common/IconIntFourb.webp",
+      "name": "Чародейка"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/UIImages/Common/IconIntFourb_Sorceress1.webp",
+      "name": "Ткач бурь"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/UIImages/Common/IconIntFourb_Sorceress2.webp",
+      "name": "Хрономант"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/UIImages/Common/IconIntFourb_Sorceress3.webp",
+      "name": "Ученица Варашты"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/UIImages/Common/IconUnknownCharacter.webp",
+      "name": "Дикарь"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/UIImages/Common/IconStrFourb.webp",
+      "name": "Воин"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/UIImages/Common/IconStrFourb_Warrior1.webp",
+      "name": "Титан"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/UIImages/Common/IconStrFourb_Warrior2.webp",
+      "name": "Вестник войны"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/UIImages/Common/IconStrFourb_Warrior3.webp",
+      "name": "Кузнец Китавы"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/UIImages/Common/IconUnknownCharacter.webp",
+      "name": "Дуэлянт"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/UIImages/Common/IconStrDexFourb.webp",
+      "name": "Наёмник"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/UIImages/Common/IconStrDexFourb_Mercenary1.webp",
+      "name": "Тактик"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/UIImages/Common/IconStrDexFourb_Mercenary2.webp",
+      "name": "Охотник на ведьм"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/UIImages/Common/IconStrDexFourb_Mercenary3.webp",
+      "name": "Легионер каменитов"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/UIImages/Common/IconUnknownCharacter.webp",
+      "name": "Жрец"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/UIImages/Common/IconStrIntFourb.webp",
+      "name": "Друид"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/UIImages/Common/IconStrIntFourb_Druid1.webp",
+      "name": "Оракул"
+   },
+   {
+      "src": "https://cdn.poe2db.tw/image/Art/2DArt/UIImages/Common/IconStrIntFourb_Druid2.webp",
+      "name": "Шаман"
+   }
+]
