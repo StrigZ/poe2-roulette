@@ -1,7 +1,7 @@
 import poe2Skills from "../assets/poe2_skills.json";
 import poe1Skills from "../assets/poe1_skills.json";
 import poe2Ascendancies from "../assets/poe2_ascendancies.json";
-import poe1Ascendancies from "../assets/poe2_ascendancies.json";
+import poe1Ascendancies from "../assets/poe1_ascendancies.json";
 import { getRandom } from "../utils/get-random";
 import type { Game } from "../types";
 
