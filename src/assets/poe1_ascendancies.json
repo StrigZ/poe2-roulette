@@ -1,0 +1,86 @@
+[
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DArt/UIImages/Common/IconDex_Raider.webp",
+      "name": "Warden"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DArt/UIImages/Common/IconDex_Deadeye.webp",
+      "name": "Deadeye"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DArt/UIImages/Common/IconDex_Pathfinder.webp",
+      "name": "Pathfinder"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DArt/UIImages/Common/IconDexInt_Assassin.webp",
+      "name": "Assassin"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DArt/UIImages/Common/IconDexInt_Trickster.webp",
+      "name": "Trickster"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DArt/UIImages/Common/IconDexInt_Saboteur.webp",
+      "name": "Saboteur"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DArt/UIImages/Common/IconInt_Occultist.webp",
+      "name": "Occultist"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DArt/UIImages/Common/IconInt_Elementalist.webp",
+      "name": "Elementalist"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DArt/UIImages/Common/IconInt_Necromancer.webp",
+      "name": "Necromancer"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DArt/UIImages/Common/IconStr_Juggernaut.webp",
+      "name": "Juggernaut"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DArt/UIImages/Common/IconStr_Berserker.webp",
+      "name": "Berserker"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DArt/UIImages/Common/IconStr_Chieftain.webp",
+      "name": "Chieftain"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DArt/UIImages/Common/IconStrDex_Slayer.webp",
+      "name": "Slayer"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DArt/UIImages/Common/IconStrDex_Gladiator.webp",
+      "name": "Gladiator"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DArt/UIImages/Common/IconStrDex_Champion.webp",
+      "name": "Champion"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DArt/UIImages/Common/IconStrDexInt_Ascendant.webp",
+      "name": "Ascendant"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DArt/UIImages/Common/IconStrDexInt_Reliquarian.webp",
+      "name": "Reliquarian"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DArt/UIImages/Common/IconStrDexInt.webp",
+      "name": "Luminary"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DArt/UIImages/Common/IconStrInt_Inquisitor.webp",
+      "name": "Inquisitor"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DArt/UIImages/Common/IconStrInt_Hierophant.webp",
+      "name": "Hierophant"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DArt/UIImages/Common/IconStrInt_Guardian.webp",
+      "name": "Guardian"
+   }
+]

@@ -1,0 +1,2238 @@
+[
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/Cleave.webp",
+      "name": "Cleave"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/Cleave.webp",
+      "name": "Cleave of Rage"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/GlacialHammer.webp",
+      "name": "Glacial Hammer"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/GlacialHammer.webp",
+      "name": "Glacial Hammer of Shattering"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/Groundslam.webp",
+      "name": "Ground Slam"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/Groundslam.webp",
+      "name": "Ground Slam of Earthshaking"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/HeavyStrike.webp",
+      "name": "Heavy Strike"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/HeavyStrike.webp",
+      "name": "Heavy Strike of Trarthus"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/HolyStrikeGem.webp",
+      "name": "Holy Strike"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/MoltenStrike.webp",
+      "name": "Molten Strike"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/MoltenStrike.webp",
+      "name": "Molten Strike of the Zenith"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/BloodSandSpearsSkillGem.webp",
+      "name": "Perforate"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/BloodSandSpearsSkillGem.webp",
+      "name": "Perforate of Duality"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/BloodSandSpearsSkillGem.webp",
+      "name": "Perforate of Bloodshed"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/ShieldCrush.webp",
+      "name": "Shield Crush"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/ShieldCrush.webp",
+      "name": "Shield Crush of the Chieftain"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/SmiteGem.webp",
+      "name": "Smite"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/SmiteGem.webp",
+      "name": "Smite of Divine Judgement"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/VaalGems/VaalCleave.webp",
+      "name": "Vaal Cleave"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/VaalGems/VaalGlacialHammer.webp",
+      "name": "Vaal Glacial Hammer"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/VaalGems/VaalGroundslam.webp",
+      "name": "Vaal Ground Slam"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/VaalGems/VaalMoltenStrike.webp",
+      "name": "Vaal Molten Strike"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/VaalGems/VaalSmite.webp",
+      "name": "Vaal Smite"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/AncestorTotem.webp",
+      "name": "Ancestral Protector"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/BloodSandStanceGem.webp",
+      "name": "Blood and Sand"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/CrushingFistSkillGem.webp",
+      "name": "Crushing Fist"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/DecoyTotem.webp",
+      "name": "Decoy Totem"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/DevouringTotem.webp",
+      "name": "Devouring Totem"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/FlameTotem.webp",
+      "name": "Holy Flame Totem"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/FlameTotem.webp",
+      "name": "Holy Flame Totem of Ire"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/QuickGuardGem.webp",
+      "name": "Steelskin"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/RejuvinationTotem.webp",
+      "name": "Rejuvenation Totem"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/ShieldCharge.webp",
+      "name": "Shield Charge"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/VaalGems/VaalRejuvinationTotem.webp",
+      "name": "Vaal Rejuvenation Totem"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/VigilantStrikeGem.webp",
+      "name": "Vigilant Strike"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/Warbanner.webp",
+      "name": "War Banner"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/EnduringCry.webp",
+      "name": "Enduring Cry"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/IntimidatingCry.webp",
+      "name": "Intimidating Cry"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/LeapSlam.webp",
+      "name": "Leap Slam"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/LeapSlam.webp",
+      "name": "Leap Slam of Groundbreaking"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/Vitality.webp",
+      "name": "Vitality"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/AbsolutionBlastGem.webp",
+      "name": "Absolution"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/AbsolutionBlastGem.webp",
+      "name": "Absolution of Inspiring"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/ChainStrikeGem.webp",
+      "name": "Chain Hook"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/ChainStrikeGem.webp",
+      "name": "Chain Hook of Angling"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/ChainStrikeGem.webp",
+      "name": "Chain Hook of Trarthus"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/SpikeSlamGem.webp",
+      "name": "Earthshatter"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/SpikeSlamGem.webp",
+      "name": "Earthshatter of Fragility"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/SpikeSlamGem.webp",
+      "name": "Earthshatter of Prominence"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/BloodTendrilsSkillGem.webp",
+      "name": "Exsanguinate"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/BloodTendrilsSkillGem.webp",
+      "name": "Exsanguinate of Transmission"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/InfernalBlow.webp",
+      "name": "Infernal Blow"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/InfernalBlow.webp",
+      "name": "Infernal Blow of Immolation"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/SearingBond.webp",
+      "name": "Searing Bond"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/SearingBond.webp",
+      "name": "Searing Bond of Detonation"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/StaticGem.webp",
+      "name": "Static Strike"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/StaticGem.webp",
+      "name": "Static Strike of Gathering Lightning"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/ShockwaveSlam.webp",
+      "name": "Sunder"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/ShockwaveSlam.webp",
+      "name": "Sunder of Earthbreaking"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/ShockwaveSlam.webp",
+      "name": "Sunder of Trarthus"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/Sweep.webp",
+      "name": "Holy Sweep"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/Sweep.webp",
+      "name": "Holy Sweep of Hammerfalls"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/VaalGems/VaalAbsolutionBlastGem.webp",
+      "name": "Vaal Absolution"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/VaalGems/VaalVolcanicFissureSkillGem.webp",
+      "name": "Vaal Volcanic Fissure"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/VolcanicFissureSkillGem.webp",
+      "name": "Volcanic Fissure"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/VolcanicFissureSkillGem.webp",
+      "name": "Volcanic Fissure of Snaking"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/AncestralCry.webp",
+      "name": "Ancestral Cry"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/CorruptedBloodStream.webp",
+      "name": "Corrupting Fever"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/ArmourandEvasionBanner.webp",
+      "name": "Defiance Banner"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/1HandShieldCounterattackSkillGem.webp",
+      "name": "Eviscerate"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/BloodSandArmourGem.webp",
+      "name": "Flesh and Stone"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/HeraldofAsh.webp",
+      "name": "Herald of Ash"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/HeraldOfLight%20Gem.webp",
+      "name": "Herald of Purity"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/MoltenShell.webp",
+      "name": "Molten Shell"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/SeismicCrySkillGem.webp",
+      "name": "Seismic Cry"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/ShieldofLightGem.webp",
+      "name": "Shield of Light"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/WeaponStormSkill.webp",
+      "name": "Swordstorm"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/VaalGems/VaalMoltenShell.webp",
+      "name": "Vaal Molten Shell"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/WarlordsMark.webp",
+      "name": "Warlord's Mark"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/Anger.webp",
+      "name": "Anger"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/AutoCastInstantWarcry.webp",
+      "name": "Autoexertion"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/DivineCryGem.webp",
+      "name": "Battlemage's Cry"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/Determination.webp",
+      "name": "Determination"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/DreadBanner.webp",
+      "name": "Dread Banner"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/GeneralsCry.webp",
+      "name": "General's Cry"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/InfernalCry.webp",
+      "name": "Infernal Cry"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/PetrifiedBloodGem.webp",
+      "name": "Petrified Blood"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/PrideAuraGem.webp",
+      "name": "Pride"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/Punishment.webp",
+      "name": "Punishment"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/FireResistAura.webp",
+      "name": "Purity of Fire"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/RallyingCrySkillGem.webp",
+      "name": "Rallying Cry"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/VaalGems/VaalFireResistAura.webp",
+      "name": "Vaal Impurity of Fire"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/RetaliationRageWarecryWarcry.webp",
+      "name": "Vengeful Cry"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/Vulnerability.webp",
+      "name": "Vulnerability"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/SlamTotemGem.webp",
+      "name": "Ancestral Warchief"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/AnimateArmour.webp",
+      "name": "Animate Guardian"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/AnimateArmour.webp",
+      "name": "Animate Guardian of Smiting"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/BladestormGem.webp",
+      "name": "Bladestorm"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/BladestormGem.webp",
+      "name": "Bladestorm of Uncertainty"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/BoneshatterSkillGem.webp",
+      "name": "Boneshatter"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/BoneshatterSkillGem.webp",
+      "name": "Boneshatter of Complex Trauma"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/BoneshatterSkillGem.webp",
+      "name": "Boneshatter of Carnage"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/HolyPathGem.webp",
+      "name": "Consecrated Path"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/HolyPathGem.webp",
+      "name": "Consecrated Path of Endurance"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/DiscusSlam.webp",
+      "name": "Divine Blast"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/DiscusSlam.webp",
+      "name": "Divine Blast of Radiance"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/DominatingBlow.webp",
+      "name": "Dominating Blow"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/DominatingBlow.webp",
+      "name": "Dominating Blow of Inspiring"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/QuakeSlam.webp",
+      "name": "Earthquake"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/QuakeSlam.webp",
+      "name": "Earthquake of Amplification"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/HolyHammers.webp",
+      "name": "Holy Hammers"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/HolyHammers.webp",
+      "name": "Holy Hammers of Spirals"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/IceCrashGem.webp",
+      "name": "Ice Crash"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/IceCrashGem.webp",
+      "name": "Ice Crash of Cadence"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/RageVortex.webp",
+      "name": "Rage Vortex"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/RageVortex.webp",
+      "name": "Rage Vortex of Berserking"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/BloodreapGem.webp",
+      "name": "Reap"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/BloodreapGem.webp",
+      "name": "Reap of Butchery"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/ShockwaveTotem.webp",
+      "name": "Shockwave Totem"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/ShockwaveTotem.webp",
+      "name": "Shockwave Totem of Authority"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/TectonicSlam.webp",
+      "name": "Tectonic Slam"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/TectonicSlam.webp",
+      "name": "Tectonic Slam of Cataclysm"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/SlamTotemGemVaal.webp",
+      "name": "Vaal Ancestral Warchief"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/VaalGems/VaalDominatingBlow.webp",
+      "name": "Vaal Domination"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/VaalGems/VaalQuakeSlam.webp",
+      "name": "Vaal Earthquake"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/VaalGems/VaalBloodreapGem.webp",
+      "name": "Vaal Reap"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/BeserkGem.webp",
+      "name": "Berserk"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/FlameLinkGem.webp",
+      "name": "Flame Link"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/FrozenLegionSkillGem.webp",
+      "name": "Frozen Legion"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/FrozenLegionSkillGem.webp",
+      "name": "Frozen Legion of Rallying"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/ImmortalCall.webp",
+      "name": "Immortal Call"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/BlockLinkGem.webp",
+      "name": "Protective Link"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/FireElementalSummon.webp",
+      "name": "Summon Flame Golem"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/FireElementalSummon.webp",
+      "name": "Summon Flame Golem of Hordes"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/FireElementalSummon.webp",
+      "name": "Summon Flame Golem of the Meteor"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/RockGolem.webp",
+      "name": "Summon Stone Golem"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/RockGolem.webp",
+      "name": "Summon Stone Golem of Hordes"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/RockGolem.webp",
+      "name": "Summon Stone Golem of Safeguarding"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/VaalGems/VaalImmortalCall.webp",
+      "name": "Vaal Immortal Call"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/BurningArrow.webp",
+      "name": "Burning Arrow"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/BurningArrow.webp",
+      "name": "Burning Arrow of Vigour"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/PoisonArrow.webp",
+      "name": "Caustic Arrow"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/PoisonArrow.webp",
+      "name": "Caustic Arrow of Poison"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/CobraLash.webp",
+      "name": "Cobra Lash"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/DoubleStrike.webp",
+      "name": "Double Strike"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/DoubleStrike.webp",
+      "name": "Double Strike of Impaling"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/DoubleStrike.webp",
+      "name": "Double Strike of Momentum"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/DualStrike.webp",
+      "name": "Dual Strike"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/DualStrike.webp",
+      "name": "Dual Strike of Ambidexterity"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/EtherealKnives.webp",
+      "name": "Ethereal Knives"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/EtherealKnives.webp",
+      "name": "Ethereal Knives of Lingering Blades"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/EtherealKnives.webp",
+      "name": "Ethereal Knives of the Massacre"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/ShrapnelTrap.webp",
+      "name": "Explosive Trap"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/ShrapnelTrap.webp",
+      "name": "Explosive Trap of Shrapnel"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/ShrapnelTrap.webp",
+      "name": "Explosive Trap of Magnitude"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/IceStrike.webp",
+      "name": "Frost Blades"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/IceStrike.webp",
+      "name": "Frost Blades of Katabasis"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/ShrapnelShot.webp",
+      "name": "Galvanic Arrow"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/ShrapnelShot.webp",
+      "name": "Galvanic Arrow of Energy"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/ShrapnelShot.webp",
+      "name": "Galvanic Arrow of Surging"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/IceShot.webp",
+      "name": "Ice Shot"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/IceShot.webp",
+      "name": "Ice Shot of Penetration"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/GhostlyThrow.webp",
+      "name": "Spectral Throw"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/GhostlyThrow.webp",
+      "name": "Spectral Throw of Materialising"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/GhostlyThrow.webp",
+      "name": "Spectral Throw of Trarthus"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/SplitArrow.webp",
+      "name": "Split Arrow"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/SplitArrow.webp",
+      "name": "Split Arrow of Splitting"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/ImpactingSteelGem.webp",
+      "name": "Splitting Steel"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/ImpactingSteelGem.webp",
+      "name": "Splitting Steel of Ammunition"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/VaalGems/VaalBurningArrow.webp",
+      "name": "Vaal Burning Arrow"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/VaalGems/VaalPoisonArrow.webp",
+      "name": "Vaal Caustic Arrow"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/VaalGems/VaalDoubleStrike.webp",
+      "name": "Vaal Double Strike"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/VaalGems/VaalIceShot.webp",
+      "name": "Vaal Ice Shot"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/VaalGems/VaalGhostlyThrow.webp",
+      "name": "Vaal Spectral Throw"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/ViperStrike.webp",
+      "name": "Viper Strike"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/ViperStrike.webp",
+      "name": "Viper Strike of the Mamba"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/AnimateWeapon.webp",
+      "name": "Animate Weapon"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/AnimateWeapon.webp",
+      "name": "Animate Weapon of Self Reflection"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/AnimateWeapon.webp",
+      "name": "Animate Weapon of Ranged Arms"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/BearTrap.webp",
+      "name": "Bear Trap"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/BearTrap.webp",
+      "name": "Bear Trap of Skewers"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/QuickDashGem.webp",
+      "name": "Dash"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/DetonateDead.webp",
+      "name": "Detonate Dead"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/DetonateDead.webp",
+      "name": "Detonate Dead of Scavenging"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/DetonateDead.webp",
+      "name": "Detonate Dead of Chain Reaction"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/Puncture.webp",
+      "name": "Puncture"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/Puncture.webp",
+      "name": "Puncture of Shanking"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/ShotgunTotemBowSkillGem.webp",
+      "name": "Shrapnel Ballista"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/ShotgunTotemBowSkillGem.webp",
+      "name": "Shrapnel Ballista of Steel"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/ProjectileWeakness.webp",
+      "name": "Sniper's Mark"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/VaalGems/VaalAnimateWeapon.webp",
+      "name": "Vaal Animate Weapon"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/VaalGems/VaalDetonateDead.webp",
+      "name": "Vaal Detonate Dead"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/BlinkArrow.webp",
+      "name": "Blink Arrow"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/BlinkArrow.webp",
+      "name": "Blink Arrow of Bombarding Clones"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/BlinkArrow.webp",
+      "name": "Blink Arrow of Prismatic Clones"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/FlickerStrike.webp",
+      "name": "Flicker Strike"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/FlickerStrike.webp",
+      "name": "Flicker Strike of Power"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/MirrorArrow.webp",
+      "name": "Mirror Arrow"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/MirrorArrow.webp",
+      "name": "Mirror Arrow of Bombarding Clones"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/MirrorArrow.webp",
+      "name": "Mirror Arrow of Prismatic Clones"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/AccuracyandCriticalChanceAura.webp",
+      "name": "Precision"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/SmokeBomb.webp",
+      "name": "Smoke Mine"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/BoneLance.webp",
+      "name": "Unearth"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/VaalGems/VaalFlickerStrike.webp",
+      "name": "Vaal Flicker Strike"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/WhirlingBlades.webp",
+      "name": "Whirling Blades"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/WitheringStepGem.webp",
+      "name": "Withering Step"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/Barrage.webp",
+      "name": "Barrage"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/Barrage.webp",
+      "name": "Barrage of Volley Fire"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/BladeTrapSkillGem.webp",
+      "name": "Blade Trap"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/BladeTrapSkillGem.webp",
+      "name": "Blade Trap of Greatswords"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/BladeTrapSkillGem.webp",
+      "name": "Blade Trap of Laceration"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/SpinningEtherealBladesGem.webp",
+      "name": "Blade Vortex"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/SpinningEtherealBladesGem.webp",
+      "name": "Blade Vortex of the Scythe"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/Elementalhit.webp",
+      "name": "Elemental Hit"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/Elementalhit.webp",
+      "name": "Elemental Hit of the Spectrum"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/FireTrap.webp",
+      "name": "Fire Trap"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/FireTrap.webp",
+      "name": "Fire Trap of Blasting"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/DoubleSlash.webp",
+      "name": "Lacerate"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/DoubleSlash.webp",
+      "name": "Lacerate of Butchering"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/DoubleSlash.webp",
+      "name": "Lacerate of Haemorrhage"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/LightningArrow.webp",
+      "name": "Lightning Arrow"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/LightningArrow.webp",
+      "name": "Lightning Arrow of Electrocution"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/LightningStrike.webp",
+      "name": "Lightning Strike"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/LightningStrike.webp",
+      "name": "Lightning Strike of Arcing"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/PoisonousConcoction.webp",
+      "name": "Poisonous Concoction"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/PoisonousConcoction.webp",
+      "name": "Poisonous Concoction of Bouncing"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/RainofArrows.webp",
+      "name": "Rain of Arrows"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/RainofArrows.webp",
+      "name": "Rain of Arrows of Artillery"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/RainofArrows.webp",
+      "name": "Rain of Arrows of Saturation"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/Reave.webp",
+      "name": "Reave"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/Reave.webp",
+      "name": "Reave of Refraction"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/ShatteringSteel.webp",
+      "name": "Shattering Steel"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/ShatteringSteel.webp",
+      "name": "Shattering Steel of Ammunition"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/CrossBowTotemGem.webp",
+      "name": "Siege Ballista"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/CrossBowTotemGem.webp",
+      "name": "Siege Ballista of Splintering"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/CrossBowTotemGem.webp",
+      "name": "Siege Ballista of Trarthus"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/SpectralSpiralGem.webp",
+      "name": "Spectral Helix"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/SpectralSpiralGem.webp",
+      "name": "Spectral Helix of Trarthus"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/RainofSporesGem.webp",
+      "name": "Toxic Rain"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/RainofSporesGem.webp",
+      "name": "Toxic Rain of Sporeburst"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/RainofSporesGem.webp",
+      "name": "Toxic Rain of Withering"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/VaalGems/VaalSpinningEtherealBladesGem.webp",
+      "name": "Vaal Blade Vortex"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/VaalGems/VaalLightningArrow.webp",
+      "name": "Vaal Lightning Arrow"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/VaalGems/VaalLightningStrike.webp",
+      "name": "Vaal Lightning Strike"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/VaalGems/VaalRainofArrows.webp",
+      "name": "Vaal Rain of Arrows"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/VaalGems/VaalReave.webp",
+      "name": "Vaal Reave"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/VaalGems/VaalSnappingAdder.webp",
+      "name": "Vaal Venom Gyre"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/SnappingAdder.webp",
+      "name": "Venom Gyre"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/VolatileDead.webp",
+      "name": "Volatile Dead"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/VolatileDead.webp",
+      "name": "Volatile Dead of Confinement"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/VolatileDead.webp",
+      "name": "Volatile Dead of Seething"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/IceShield.webp",
+      "name": "Arctic Armour"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/BladeBurst.webp",
+      "name": "Blade Blast"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/BladeBurst.webp",
+      "name": "Blade Blast of Unloading"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/BladeBurst.webp",
+      "name": "Blade Blast of Dagger Detonation"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/BloodRage.webp",
+      "name": "Blood Rage"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/Desecrate.webp",
+      "name": "Desecrate"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/EnsnaringArrow.webp",
+      "name": "Ensnaring Arrow"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/Frenzy.webp",
+      "name": "Frenzy"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/Frenzy.webp",
+      "name": "Frenzy of Onslaught"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/IceWavesSkill.webp",
+      "name": "Glacial Shield Swipe"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/HeraldOfAgonyGem.webp",
+      "name": "Herald of Agony"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/HeraldofIce.webp",
+      "name": "Herald of Ice"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/PoachersMark.webp",
+      "name": "Poacher's Mark"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/VaalGems/VaalIceShield.webp",
+      "name": "Vaal Arctic Armour"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/AlchemistsMarkSkillGem.webp",
+      "name": "Alchemist's Mark"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/Grace.webp",
+      "name": "Grace"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/Haste.webp",
+      "name": "Haste"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/Hatred.webp",
+      "name": "Hatred"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/PlagueBearerGem.webp",
+      "name": "Plague Bearer"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/ColdResistAura.webp",
+      "name": "Purity of Ice"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/TemporalChains.webp",
+      "name": "Temporal Chains"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/VaalGems/VaalGrace.webp",
+      "name": "Vaal Grace"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/VaalGems/VaalHaste.webp",
+      "name": "Vaal Haste"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/VaalGems/VaalColdResistAura.webp",
+      "name": "Vaal Impurity of Ice"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/MortarTotemBowSkillGem.webp",
+      "name": "Artillery Ballista"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/MortarTotemBowSkillGem.webp",
+      "name": "Artillery Ballista of Cross Strafe"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/MortarTotemBowSkillGem.webp",
+      "name": "Artillery Ballista of Focus Fire"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/ChargedAttack.webp",
+      "name": "Blade Flurry"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/ChargedAttack.webp",
+      "name": "Blade Flurry of Incision"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/RainOfBlades.webp",
+      "name": "Bladefall"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/RainOfBlades.webp",
+      "name": "Bladefall of Volleys"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/RainOfBlades.webp",
+      "name": "Bladefall of Impaling"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/RainOfBlades.webp",
+      "name": "Bladefall of Trarthus"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/BlastRainGem.webp",
+      "name": "Blast Rain"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/BlastRainGem.webp",
+      "name": "Blast Rain of Trarthus"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/ChargedDashGem.webp",
+      "name": "Charged Dash"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/ChargedDashGem.webp",
+      "name": "Charged Dash of Projection"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/ConflagrationSkillGem.webp",
+      "name": "Conflagration"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/CorpseEruption.webp",
+      "name": "Cremation"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/CorpseEruption.webp",
+      "name": "Cremation of Exhuming"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/CorpseEruption.webp",
+      "name": "Cremation of the Volcano"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/Cyclone.webp",
+      "name": "Cyclone"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/Cyclone.webp",
+      "name": "Cyclone of Tumult"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/ExplosiveArrow.webp",
+      "name": "Explosive Arrow"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/ExplosiveFlaskSkillGem.webp",
+      "name": "Explosive Concoction"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/ExplosiveFlaskSkillGem.webp",
+      "name": "Explosive Concoction of Destruction"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/FlamethrowerTrap.webp",
+      "name": "Flamethrower Trap"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/FlamethrowerTrap.webp",
+      "name": "Flamethrower Trap of Stability"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/IceTrapRune.webp",
+      "name": "Ice Trap"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/IceTrapRune.webp",
+      "name": "Ice Trap of Hollowness"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/LancingSteel.webp",
+      "name": "Lancing Steel"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/LancingSteel.webp",
+      "name": "Lancing Steel of Spraying"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/MambaStrike.webp",
+      "name": "Pestilent Strike"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/VirulentArrow.webp",
+      "name": "Scourge Arrow"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/VirulentArrow.webp",
+      "name": "Scourge Arrow of Menace"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/SubterraneanTrap.webp",
+      "name": "Seismic Trap"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/SubterraneanTrap.webp",
+      "name": "Seismic Trap of Swells"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/ThrownShield.webp",
+      "name": "Spectral Shield Throw"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/ThrownShield.webp",
+      "name": "Spectral Shield Throw of Shattering"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/ThrownShield.webp",
+      "name": "Spectral Shield Throw of Trarthus"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/PrismaticRain.webp",
+      "name": "Storm Rain"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/PrismaticRain.webp",
+      "name": "Storm Rain of the Conduit"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/PrismaticRain.webp",
+      "name": "Storm Rain of the Fence"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/WindstormSkillGem.webp",
+      "name": "Thunderstorm"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/TornadoShot.webp",
+      "name": "Tornado Shot"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/TornadoShot.webp",
+      "name": "Tornado Shot of Cloudburst"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/VaalGems/VaalBladeFlurry.webp",
+      "name": "Vaal Blade Flurry"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/VaalGems/VaalCyclone.webp",
+      "name": "Vaal Cyclone"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/ElementalStrike.webp",
+      "name": "Wild Strike"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/ElementalStrike.webp",
+      "name": "Wild Strike of Extremes"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/AmbushSkillGem.webp",
+      "name": "Ambush"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/TriggerLinkGem.webp",
+      "name": "Intuitive Link"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/PhaseRun.webp",
+      "name": "Phase Run"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/SniperSkillGem.webp",
+      "name": "Snipe"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/IceElementalSummon.webp",
+      "name": "Summon Ice Golem"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/IceElementalSummon.webp",
+      "name": "Summon Ice Golem of Hordes"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/IceElementalSummon.webp",
+      "name": "Summon Ice Golem of Shattering"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/Chronomancer.webp",
+      "name": "Temporal Rift"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/TornadoGem.webp",
+      "name": "Tornado"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/TornadoGem.webp",
+      "name": "Tornado of Elemental Turbulence"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/LeechLinkGem.webp",
+      "name": "Vampiric Link"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/BlightGem.webp",
+      "name": "Blight"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/BlightGem.webp",
+      "name": "Blight of Contagion"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/BlightGem.webp",
+      "name": "Blight of Atrophy"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/Fireball.webp",
+      "name": "Fireball"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/FreezingPulse.webp",
+      "name": "Freezing Pulse"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/FrostBolt.webp",
+      "name": "Frostbolt"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/ZigZagWandSkill.webp",
+      "name": "Kinetic Bolt"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/ZigZagWandSkill.webp",
+      "name": "Kinetic Bolt of Fragmentation"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/LighteningTouch.webp",
+      "name": "Lightning Tendrils"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/LighteningTouch.webp",
+      "name": "Lightning Tendrils of Eccentricity"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/LighteningTouch.webp",
+      "name": "Lightning Tendrils of Escalation"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/PurifyingFlame.webp",
+      "name": "Purifying Flame"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/PurifyingFlame.webp",
+      "name": "Purifying Flame of Revelations"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/RaiseZombie.webp",
+      "name": "Raise Zombie"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/RaiseZombie.webp",
+      "name": "Raise Zombie of Slamming"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/RaiseZombie.webp",
+      "name": "Raise Zombie of Falling"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/FireMortar.webp",
+      "name": "Rolling Magma"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/Spark.webp",
+      "name": "Spark"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/Spark.webp",
+      "name": "Spark of the Nova"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/Spark.webp",
+      "name": "Spark of Unpredictability"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/LightningExplosionMineSkillGem.webp",
+      "name": "Stormblast Mine"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/VaalGems/VaalBlightGem.webp",
+      "name": "Vaal Blight"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/VaalGems/VaalFireball.webp",
+      "name": "Vaal Fireball"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/VaalGems/VaalSpark.webp",
+      "name": "Vaal Spark"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/ContagionGem.webp",
+      "name": "Contagion"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/ContagionGem.webp",
+      "name": "Contagion of Subsiding"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/ContagionGem.webp",
+      "name": "Contagion of Transference"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/ConversionTrap.webp",
+      "name": "Conversion Trap"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/Firewall.webp",
+      "name": "Flame Wall"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/FrostBomb.webp",
+      "name": "Frost Bomb"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/FrostBomb.webp",
+      "name": "Frost Bomb of Instability"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/FrostBomb.webp",
+      "name": "Frost Bomb of Forthcoming"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/FrostWall.webp",
+      "name": "Frost Wall"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/FrostWall.webp",
+      "name": "Frost Wall of Encroachment"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/FrostblinkSkillGem.webp",
+      "name": "Frostblink"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/FrostblinkSkillGem.webp",
+      "name": "Frostblink of Wintry Blast"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/StormCloudGem.webp",
+      "name": "Orb of Storms"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/StormCloudGem.webp",
+      "name": "Orb of Storms of Squalls"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/HolyRelic.webp",
+      "name": "Summon Holy Relic"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/HolyRelic.webp",
+      "name": "Summon Holy Relic of Conviction"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/SummonElemental.webp",
+      "name": "Summon Raging Spirit"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/SummonElemental.webp",
+      "name": "Summon Raging Spirit of Enormity"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/CorpseWarp.webp",
+      "name": "Bodyswap"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/CorpseWarp.webp",
+      "name": "Bodyswap of Sacrifice"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/Clarity.webp",
+      "name": "Clarity"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/FlameDash.webp",
+      "name": "Flame Dash"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/FlameDash.webp",
+      "name": "Flame Dash of Return"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/LightningWarp.webp",
+      "name": "Lightning Warp"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/IceSiphon.webp",
+      "name": "Siphoning Trap"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/IceSiphon.webp",
+      "name": "Siphoning Trap of Pain"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/SummonSkeletons.webp",
+      "name": "Summon Skeletons"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/SummonSkeletons.webp",
+      "name": "Summon Skeletons of Archers"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/SummonSkeletons.webp",
+      "name": "Summon Skeletons of Mages"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/VaalGems/VaalClarity.webp",
+      "name": "Vaal Clarity"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/VaalGems/VaalLightningWarp.webp",
+      "name": "Vaal Lightning Warp"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/VaalGems/VaalSummonSkeletons.webp",
+      "name": "Vaal Summon Skeletons"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/WitherGem.webp",
+      "name": "Wither"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/Arc.webp",
+      "name": "Arc"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/Arc.webp",
+      "name": "Arc of Surging"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/Arc.webp",
+      "name": "Arc of Oscillating"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/Ember.webp",
+      "name": "Blazing Salvo"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/BoneOffering.webp",
+      "name": "Bone Offering"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/ArcticBreath.webp",
+      "name": "Creeping Frost"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/ArcticBreath.webp",
+      "name": "Creeping Frost of Floes"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/SiphonGem.webp",
+      "name": "Essence Drain"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/SiphonGem.webp",
+      "name": "Essence Drain of Desperation"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/SiphonGem.webp",
+      "name": "Essence Drain of Wickedness"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/Flamewhip.webp",
+      "name": "Flame Surge"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/Flamewhip.webp",
+      "name": "Flame Surge of Combusting"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/FleshOffering.webp",
+      "name": "Flesh Offering"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/IceNova.webp",
+      "name": "Ice Nova"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/IceNova.webp",
+      "name": "Ice Nova of Frostbolts"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/IceNova.webp",
+      "name": "Ice Nova of Deep Freeze"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/IceSpear.webp",
+      "name": "Ice Spear"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/IceSpear.webp",
+      "name": "Ice Spear of Splitting"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/ColdProjectileMineSkillGem.webp",
+      "name": "Icicle Mine"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/ColdProjectileMineSkillGem.webp",
+      "name": "Icicle Mine of Fanning"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/ColdProjectileMineSkillGem.webp",
+      "name": "Icicle Mine of Sabotage"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/Flamethrower.webp",
+      "name": "Incinerate"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/Flamethrower.webp",
+      "name": "Incinerate of Expanse"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/Flamethrower.webp",
+      "name": "Incinerate of Venting"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/KineticFullisadeSkillGem.webp",
+      "name": "Kinetic Fusillade"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/KineticFullisadeSkillGem.webp",
+      "name": "Kinetic Fusillade of Detonation"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/LightningTrap.webp",
+      "name": "Lightning Trap"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/LightningTrap.webp",
+      "name": "Lightning Trap of Sparking"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/ManaVoidGem.webp",
+      "name": "Manabond"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/PowerSiphon.webp",
+      "name": "Power Siphon"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/PowerSiphon.webp",
+      "name": "Power Siphon of the Archmage"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/FireBeam.webp",
+      "name": "Scorching Ray"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/FireBeam.webp",
+      "name": "Scorching Ray of Immolation"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/SpiritOffering.webp",
+      "name": "Spirit Offering"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/ConduitSigil.webp",
+      "name": "Storm Brand"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/ConduitSigil.webp",
+      "name": "Storm Brand of Indecision"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/StormBurst.webp",
+      "name": "Storm Burst"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/StormBurst.webp",
+      "name": "Storm Burst of Repulsion"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/Stormcall.webp",
+      "name": "Storm Call"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/Stormcall.webp",
+      "name": "Storm Call of Trarthus"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/VaalGems/VaalArc.webp",
+      "name": "Vaal Arc"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/VaalGems/VaalIceNova.webp",
+      "name": "Vaal Ice Nova"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/VaalGems/VaalLightningTrap.webp",
+      "name": "Vaal Lightning Trap"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/VaalGems/VaalPowerSiphon.webp",
+      "name": "Vaal Power Siphon"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/VaalGems/VaalStormcall.webp",
+      "name": "Vaal Storm Call"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/VoidburstSkillGem.webp",
+      "name": "Voltaxic Burst"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/WintertideBrandGem.webp",
+      "name": "Wintertide Brand"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/ArcaneCloak.webp",
+      "name": "Arcane Cloak"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/AssassinsMark.webp",
+      "name": "Assassin's Mark"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/RecallSigil.webp",
+      "name": "Brand Recall"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/ColdSnap.webp",
+      "name": "Cold Snap"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/ColdSnap.webp",
+      "name": "Cold Snap of Power"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/RetaliationHolySpellSkill.webp",
+      "name": "Divine Retribution"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/SoulfeastGem.webp",
+      "name": "Forbidden Rite"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/SoulfeastGem.webp",
+      "name": "Forbidden Rite of Soul Sacrifice"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/GalvanicFieldSkillGem.webp",
+      "name": "Galvanic Field"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/GalvanicFieldSkillGem.webp",
+      "name": "Galvanic Field of Intensity"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/HeraldofThunder.webp",
+      "name": "Herald of Thunder"
+   },
+   {
+      "imageSrc": null,
+      "name": "Mana-Infused Staff"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/RighteousFire.webp",
+      "name": "Righteous Fire"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/RighteousFire.webp",
+      "name": "Righteous Fire of Arcane Devotion"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/SkitterbotSkillGem.webp",
+      "name": "Summon Skitterbots"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/TempestShield.webp",
+      "name": "Tempest Shield"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/VaalGems/VaalColdSnap.webp",
+      "name": "Vaal Cold Snap"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/VaalGems/VaalRighteousFire.webp",
+      "name": "Vaal Righteous Fire"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/WallofForceSkillGem.webp",
+      "name": "Wall of Force"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/Purge.webp",
+      "name": "Wave of Conviction"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/Purge.webp",
+      "name": "Wave of Conviction of Trarthus"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/AutoCastInstantSkills.webp",
+      "name": "Automation"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/DarkRitualGem.webp",
+      "name": "Bane"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/DarkRitualGem.webp",
+      "name": "Bane of Condemnation"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/Conductivity.webp",
+      "name": "Conductivity"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/Despair.webp",
+      "name": "Despair"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/Discipline.webp",
+      "name": "Discipline"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/ElementalWeakness.webp",
+      "name": "Elemental Weakness"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/StormBladeGem.webp",
+      "name": "Energy Blade"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/Enfeeble.webp",
+      "name": "Enfeeble"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/Flammability.webp",
+      "name": "Flammability"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/FrostBite.webp",
+      "name": "Frostbite"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/DeliriumGem.webp",
+      "name": "Malevolence"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/Purity.webp",
+      "name": "Purity of Elements"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/LightningResistAura.webp",
+      "name": "Purity of Lightning"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/Spellslinger.webp",
+      "name": "Spellslinger"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/VaalGems/VaalDiscipline.webp",
+      "name": "Vaal Discipline"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/VaalGems/VaalLightningResistAura.webp",
+      "name": "Vaal Impurity of Lightning"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/Wrath.webp",
+      "name": "Wrath"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/SpellDamageGem.webp",
+      "name": "Zealotry"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/ArmageddonBrand.webp",
+      "name": "Armageddon Brand"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/ArmageddonBrand.webp",
+      "name": "Armageddon Brand of Volatility"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/ArmageddonBrand.webp",
+      "name": "Armageddon Brand of Recall"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/BallLightning.webp",
+      "name": "Ball Lightning"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/BallLightning.webp",
+      "name": "Ball Lightning of Orbiting"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/BallLightning.webp",
+      "name": "Ball Lightning of Static"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/DisentegrateGem.webp",
+      "name": "Crackling Lance"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/DisentegrateGem.webp",
+      "name": "Crackling Lance of Branching"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/DisentegrateGem.webp",
+      "name": "Crackling Lance of Disintegration"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/SkeletalChains.webp",
+      "name": "Dark Bargain"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/SkeletalChains.webp",
+      "name": "Dark Bargain of Trarthus"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/Discharge.webp",
+      "name": "Discharge"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/Discharge.webp",
+      "name": "Discharge of Misery"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/DivineTempest.webp",
+      "name": "Divine Ire"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/DivineTempest.webp",
+      "name": "Divine Ire of Holy Lightning"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/DivineTempest.webp",
+      "name": "Divine Ire of Disintegration"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/FrozenSphereSkillGem.webp",
+      "name": "Eye of Winter"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/FrozenSphereSkillGem.webp",
+      "name": "Eye of Winter of Finality"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/FrozenSphereSkillGem.webp",
+      "name": "Eye of Winter of Transience"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/Firestorm.webp",
+      "name": "Firestorm"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/Firestorm.webp",
+      "name": "Firestorm of Meteors"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/Firestorm.webp",
+      "name": "Firestorm of Pelting"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/ChargedBlast.webp",
+      "name": "Flameblast"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/ChargedBlast.webp",
+      "name": "Flameblast of Celerity"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/ChargedBlast.webp",
+      "name": "Flameblast of Contraction"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/Upheaval.webp",
+      "name": "Glacial Cascade"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/Upheaval.webp",
+      "name": "Glacial Cascade of the Fissure"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/DoomBlastSkillGem.webp",
+      "name": "Hexblast"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/DoomBlastSkillGem.webp",
+      "name": "Hexblast of Contradiction"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/DoomBlastSkillGem.webp",
+      "name": "Hexblast of Havoc"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/ClusterBurst.webp",
+      "name": "Kinetic Blast"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/ClusterBurst.webp",
+      "name": "Kinetic Blast of Clustering"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/KineticRainSkillGem.webp",
+      "name": "Kinetic Rain"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/KineticRainSkillGem.webp",
+      "name": "Kinetic Rain of Impact"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/EnergyReleaseSkillGem.webp",
+      "name": "Lightning Conduit"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/EnergyReleaseSkillGem.webp",
+      "name": "Lightning Conduit of the Heavens"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/LightningSpire.webp",
+      "name": "Lightning Spire Trap"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/LightningSpire.webp",
+      "name": "Lightning Spire Trap of Zapping"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/LightningSpire.webp",
+      "name": "Lightning Spire Trap of Overloading"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/PenanceBrandGem.webp",
+      "name": "Penance Brand"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/PenanceBrandGem.webp",
+      "name": "Penance Brand of Dissipation"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/PenanceBrandGem.webp",
+      "name": "Penance Brand of Conduction"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/FireMortarBarrageMineSkillGem.webp",
+      "name": "Pyroclast Mine"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/FireMortarBarrageMineSkillGem.webp",
+      "name": "Pyroclast Mine of Sabotage"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/RaiseSpectre.webp",
+      "name": "Raise Spectre"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/RaiseSpectre.webp",
+      "name": "Raise Spectre of Transience"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/ShockNova.webp",
+      "name": "Shock Nova"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/ShockNova.webp",
+      "name": "Shock Nova of Procession"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/KineticShellSkillGem.webp",
+      "name": "Somatic Shell"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/Soulrend.webp",
+      "name": "Soulrend"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/Soulrend.webp",
+      "name": "Soulrend of Reaping"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/Soulrend.webp",
+      "name": "Soulrend of the Spiral"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/StormbindSkillGem.webp",
+      "name": "Stormbind"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/StormbindSkillGem.webp",
+      "name": "Stormbind of Teleportation"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/SummonReaperSkillGem.webp",
+      "name": "Summon Reaper"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/SummonReaperSkillGem.webp",
+      "name": "Summon Reaper of Revenants"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/SummonReaperSkillGem.webp",
+      "name": "Summon Reaper of Eviscerating"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/VaalGems/VaalFirestorm.webp",
+      "name": "Vaal Firestorm"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/VaalGems/VaalChargedBlast.webp",
+      "name": "Vaal Flameblast"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/FrostVortex.webp",
+      "name": "Vortex"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/FrostVortex.webp",
+      "name": "Vortex of Projection"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/FrostFury.webp",
+      "name": "Winter Orb"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/CriticalLinkGem.webp",
+      "name": "Destructive Link"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/FrostGlobe.webp",
+      "name": "Frost Shield"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/Hydrosphere.webp",
+      "name": "Hydrosphere"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/CircleofPowerSkillGem.webp",
+      "name": "Sigil of Power"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/SoulLinkGem.webp",
+      "name": "Soul Link"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/SummonCarrionGolemGem.webp",
+      "name": "Summon Carrion Golem"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/SummonCarrionGolemGem.webp",
+      "name": "Summon Carrion Golem of Hordes"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/SummonCarrionGolemGem.webp",
+      "name": "Summon Carrion Golem of Scavenging"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/ChaosElementalSummon.webp",
+      "name": "Summon Chaos Golem"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/ChaosElementalSummon.webp",
+      "name": "Summon Chaos Golem of Hordes"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/ChaosElementalSummon.webp",
+      "name": "Summon Chaos Golem of the Maelström"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/LightningGolem.webp",
+      "name": "Summon Lightning Golem"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/LightningGolem.webp",
+      "name": "Summon Lightning Golem of Hordes"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/BlackHole.webp",
+      "name": "Void Sphere"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/BlackHole.webp",
+      "name": "Void Sphere of Rending"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/ArcanistBrandGem.webp",
+      "name": "Arcanist Brand"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/QuickStepGem.webp",
+      "name": "Quickstep"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/DetonateMines.webp",
+      "name": "Detonate Mines"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/Portal.webp",
+      "name": "Portal"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/ConvocationWhite.webp",
+      "name": "Convocation"
+   },
+   {
+      "imageSrc": "https://cdn.poedb.tw/image/Art/2DItems/Gems/ConvocationWhite.webp",
+      "name": "Convocation"
+   }
+]
