@@ -1,4 +1,4 @@
-# PoE 2 Roulette
+# PoE Roulette
 
 Прога для выбора рандомного скилла и класса в Path of Exile 1 и 2
 
